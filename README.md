@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GustavoBD-Dev, i have 23 year old, recent college graduate.
-- 👀 I’m interested in technology and finance.
-- 🌱 I’m currently learning to have fun in the world of work.
-- 💞️ I’m looking to collaborate on people from all over the world.
+- 👋 Hello, I'm @GustavoBD-Dev, I'm 24 years old.
+- 👀 I am interested in technology and finances.
+- 🌱Currently I am learning to have fun in the working world, I am interested in Data Science, I like graphic analysis and especially applied in a financial environment.
+- 💞️ I am looking to collaborate with people from all over the world.
 
 <!---
 GustavoBD-Dev/GustavoBD-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
