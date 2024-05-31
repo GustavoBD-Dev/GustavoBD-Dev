@@ -64,7 +64,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GustavoBD-Dev/GustavoBD-Dev/output/snake.svg" alt="Snake animation" />
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
 
 ###
 
